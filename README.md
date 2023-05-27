@@ -44,9 +44,13 @@
   
 </p> 
 
+<h3 align="center"> My Status</h3>
 
 
+![Mei's github stats](https://github-readme-stats.vercel.app/api?username=LuisCaro92&show_icons=true&theme=dracula) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisCaro92&theme=dracula)](https://git.io/streak-stats)  
 
+<img src="https://profile-counter.glitch.me/LuisCaro92/count.svg" />
 
   
 </div>
