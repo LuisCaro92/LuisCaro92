@@ -39,15 +39,16 @@
    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython" target="_blank">
      <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql">
-      <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+      <img aling="center" alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
   </p>
   
 </p> 
 
 <h3 align="center"> My Status</h3>
 
-
+<div align="center">
 ![Mei's github stats](https://github-readme-stats.vercel.app/api?username=LuisCaro92&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisCaro92&theme=dracula)](https://git.io/streak-stats)  
+</div>
 
 <img src="https://profile-counter.glitch.me/LuisCaro92/count.svg" />
 
