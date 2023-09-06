@@ -51,7 +51,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuisCaro92&theme=dracula)](https://git.io/streak-stats)  
 
 
-<img aling="center" src="https://profile-counter.glitch.me/LuisCaro92/count.svg" />
+<img align="center" src="https://profile-counter.glitch.me/LuisCaro92/count.svg" />
 
   
 </div>
