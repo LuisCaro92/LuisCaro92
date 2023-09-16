@@ -3,7 +3,6 @@
   <img width="1000px"  height="400px"     src="https://github.com/LuisCaro92/LuisCaro92/blob/main/Free%20Universe%20Stars%20Video%20Gif%20Animated%20Zoom%20Virtual%20Background%20(1).gif" 
        /> 
   </a>
-  
  <h3 align="center">Languages</h3>
 <p align="center">
  
